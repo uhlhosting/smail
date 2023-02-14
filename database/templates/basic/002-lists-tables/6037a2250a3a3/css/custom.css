@@ -1,0 +1,17 @@
+body, table {
+    font-size: 17px;
+    line-height: 1.8;
+    font-family: Roboto, Arial, Helvetica, Verdana;
+}
+a {
+    color: #136bf5;
+}
+footer {
+    font-size: 16px;
+}
+.container {
+    max-width: 760px;
+}
+[builder-element=CellElement] .container {
+    padding: 0;
+}
